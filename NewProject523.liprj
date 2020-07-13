@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="1f1300c7-ff25-49ab-8e24-55d5c61c9380">
+    <ProjectFile Source="Target/ImageMaps.d2h" Target="Target/ImageMaps.d2h" />
+</LingoProject>
